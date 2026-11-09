@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d02e27f4d0bcc5dc",
+        "id": "89a724d1dd9676f2",
         "type": "tabs",
         "children": [
           {
-            "id": "d5e92fd875fe4bb6",
+            "id": "461d96d835761b98",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -192,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5e92fd875fe4bb6",
+  "active": "cfa1cb7877db5f9b",
   "lastOpenFiles": [
     "欢迎.md"
   ]

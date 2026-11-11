@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/前言.md",
+                "file": "数据结构/线性结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "前言"
+              "title": "线性结构"
             }
           }
         ]
@@ -200,8 +200,8 @@
   },
   "active": "15309bb32d6c93df",
   "lastOpenFiles": [
-    "数据结构/线性结构.md",
     "数据结构/前言.md",
+    "数据结构/线性结构.md",
     "数据结构",
     "欢迎.md"
   ]

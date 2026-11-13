@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7cef9071cee9c446",
@@ -198,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15309bb32d6c93df",
+  "active": "7726155120498031",
   "lastOpenFiles": [
     "数据结构/assets/屏幕截图 2026-11-13 143639.png",
     "数据结构/线性结构.md",

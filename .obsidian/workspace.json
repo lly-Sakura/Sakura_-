@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/线性结构.md",
+                "file": "数据结构/线性结构_线性表_双向链表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "线性结构"
+              "title": "线性结构_线性表_双向链表"
             }
           }
         ]
@@ -200,6 +200,8 @@
   },
   "active": "15309bb32d6c93df",
   "lastOpenFiles": [
+    "数据结构/线性结构_线性表_单链表.md",
+    "数据结构/线性结构_线性表_双向链表.md",
     "数据结构/assets/Pasted image 20261113181004.png",
     "数据结构/assets/Pasted image 20261113180646.png",
     "数据结构/assets/Pasted image 20261113180105.png",
@@ -207,7 +209,6 @@
     "数据结构/assets/Pasted image 20261113173608.png",
     "数据结构/assets/屏幕截图 2026-11-13 143639.png",
     "数据结构/assets/Pasted image 20261113173323.png",
-    "数据结构/线性结构.md",
     "数据结构/assets",
     "数据结构/数据库图片/屏幕截图 2026-11-13 143639.png",
     "数据结构/数据库图片",

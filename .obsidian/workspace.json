@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode算法题目/两数相加.md",
+                "file": "数据结构/线性表_循环链表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "两数相加"
+              "title": "线性表_循环链表"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7cef9071cee9c446",
@@ -198,11 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7726155120498031",
+  "active": "15309bb32d6c93df",
   "lastOpenFiles": [
+    "LeetCode算法题目/两数相加.md",
+    "数据结构/线性表_循环链表.md",
     "LeetCode算法题目/assets/Pasted image 20261127163147.png",
     "LeetCode算法题目/两数之和.md",
-    "LeetCode算法题目/两数相加.md",
     "LeetCode算法题目/assets/Pasted image 20261126214056.png",
     "LeetCode算法题目/assets",
     "数据结构/线性结构_线性表_双向链表.md",
@@ -217,7 +219,6 @@
     "数据结构/线性结构_线性表_静态链表.md",
     "数据结构/assets/Pasted image 20261113181004.png",
     "数据结构/assets/Pasted image 20261113180646.png",
-    "数据结构/assets/Pasted image 20261113180105.png",
     "数据结构/assets",
     "数据结构/数据库图片",
     "数据结构/前言.md",
